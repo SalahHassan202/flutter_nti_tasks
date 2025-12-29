@@ -1,0 +1,33 @@
+من خلال لغه dart قم بناء قاموس مصطلحات Flutter/Dart
+الهدف
+أنشئ برنامج Dart لإدارة وتعلم المصطلحات الأساسية في Flutter/Dart التي تعلمناها.
+
+المتطلبات
+بناء برنامج يحتوي مصطلحات  القائمة التالية:
+
+
+JIT - Just-In-Time compilation
+
+AOT - Ahead-Of-Time compilation
+
+Flutter Engine 
+
+Widget Tree 
+Element Tree 
+RenderObject Tree 
+
+7. Platform Channel
+8. Embedder
+9. Skia
+10. Impeller
+11. Dart VM
+12. Tree Shaking
+
+المطلوب من البرنامج:
+تخزين المصطلحات مع تعريفاتها
+
+عرض جميع المصطلحات مع تفاصيلها
+
+البحث عن مصطلح محدد
+
+إضافة مصطلح جديد
